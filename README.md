@@ -23,4 +23,4 @@ Learning and growing everyday :)
 http://fenfe.github.io/google-homepage</p>
 
 <p>From the_odin_project<a href="http://www.theodinproject.com/courses/web-development-101/lessons/html-css" >Curriculum</a><p>
->>>>>>> 6fe393dbfba79d9c0500675ff7f5753c2d1d4b59
+
