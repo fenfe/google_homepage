@@ -8,7 +8,7 @@ Learning and growing everyday. beautiful beginnings :)
 
 
 <p>My version right here: 
-http://fenfe.github.io/google-homepage/</p>
+http://fenfe.github.io/google_homepage/</p>
 
 <p>From the_odin_project <a href="http://www.theodinproject.com/courses/web-development-101/lessons/html-css" >Curriculum</a><p>
 
